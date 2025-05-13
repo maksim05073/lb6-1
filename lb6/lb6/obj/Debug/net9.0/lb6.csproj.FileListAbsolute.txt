@@ -1,0 +1,15 @@
+C:\Users\navro\OneDrive\Робочий стіл\proga\lb6\lb6\bin\Debug\net9.0\lb6.exe
+C:\Users\navro\OneDrive\Робочий стіл\proga\lb6\lb6\bin\Debug\net9.0\lb6.deps.json
+C:\Users\navro\OneDrive\Робочий стіл\proga\lb6\lb6\bin\Debug\net9.0\lb6.runtimeconfig.json
+C:\Users\navro\OneDrive\Робочий стіл\proga\lb6\lb6\bin\Debug\net9.0\lb6.dll
+C:\Users\navro\OneDrive\Робочий стіл\proga\lb6\lb6\bin\Debug\net9.0\lb6.pdb
+C:\Users\navro\OneDrive\Робочий стіл\proga\lb6\lb6\obj\Debug\net9.0\lb6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\navro\OneDrive\Робочий стіл\proga\lb6\lb6\obj\Debug\net9.0\lb6.AssemblyInfoInputs.cache
+C:\Users\navro\OneDrive\Робочий стіл\proga\lb6\lb6\obj\Debug\net9.0\lb6.AssemblyInfo.cs
+C:\Users\navro\OneDrive\Робочий стіл\proga\lb6\lb6\obj\Debug\net9.0\lb6.csproj.CoreCompileInputs.cache
+C:\Users\navro\OneDrive\Робочий стіл\proga\lb6\lb6\obj\Debug\net9.0\lb6.sourcelink.json
+C:\Users\navro\OneDrive\Робочий стіл\proga\lb6\lb6\obj\Debug\net9.0\lb6.dll
+C:\Users\navro\OneDrive\Робочий стіл\proga\lb6\lb6\obj\Debug\net9.0\refint\lb6.dll
+C:\Users\navro\OneDrive\Робочий стіл\proga\lb6\lb6\obj\Debug\net9.0\lb6.pdb
+C:\Users\navro\OneDrive\Робочий стіл\proga\lb6\lb6\obj\Debug\net9.0\lb6.genruntimeconfig.cache
+C:\Users\navro\OneDrive\Робочий стіл\proga\lb6\lb6\obj\Debug\net9.0\ref\lb6.dll
